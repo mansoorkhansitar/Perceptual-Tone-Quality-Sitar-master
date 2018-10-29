@@ -1,0 +1,15 @@
+To run the code please ensure:
+
+1. Essentia, numpy, scipy, matplotlib and sklearn are installed
+2. Files are arranged as below:
+									    Main folder
+										 ____|____
+										/         \
+								     data1	  analysis_FRSM.py
+							   ________|________
+							  /        |        \
+						 data_ma    data_sa    data_pa
+			         ____/__         __|__         __\____
+				    /       \		/     \       /       \
+				  Band     Khula   Band  Khula   Band     Khula
+				 
